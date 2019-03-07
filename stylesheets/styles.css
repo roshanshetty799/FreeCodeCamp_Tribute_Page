@@ -42,7 +42,8 @@ img {
   border-radius: 2%;
   display: block;
   margin: 0 auto;
-
+  max-width:100%;
+  height:auto;
 }
 
 h1, h1+p, figcaption, footer {
@@ -85,3 +86,4 @@ a:hover {
   visibility: hidden;
 
 }
+
